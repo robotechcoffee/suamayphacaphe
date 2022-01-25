@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/robotechcoffee/suamayphacaphe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Giới thiệu phụ kiện Ô Tô Dozy Auto
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+** [https://suamayphacafe.vn](https://suamayphacafe.vn/) Giới thiệu dịch vụ sửa chữa máy pha cà phê hàng đầu tại Việt Nam. Chuyên bảo hành, sửa chữa các loại máy pha cà phê, máy pha cafe phổ biến trên thị trường hiện nay với chi phí và thời gian sửa chữa sớm nhất. Đảm bảo mang lại sự hài lòng cho quý khách hàng khi sử dụng dịch vụ. Thông tin liên hệ::**
 
-### Markdown
+**— Điện thoại :**  [0916975998](tel:0909881811)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**— Email:**  [suachuamayphacaphe@gmail.com](mailto:suachuamayphacaphe@gmail.com)
 
-```markdown
-Syntax highlighted code block
+**— Địa chỉ**
 
-# Header 1
-## Header 2
-### Header 3
+ Cơ sở 1: 4/1 Gò Dưa, Tam Bình, Thủ Đức
 
-- Bulleted
-- List
+### Mạng xã hội
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+- Website: [https://suamayphacafe.vn](https://suamayphacafe.vn)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Blog : [https://suamayphacafe2022.blogspot.com/](https://suamayphacafe2022.blogspot.com/)
 
-### Jekyll Themes
+Twitter: [https://twitter.com/NghaNgu42270183](https://twitter.com/NghaNgu42270183)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robotechcoffee/suamayphacaphe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+LInkedin:     [https://www.linkedin.com/company/robotech-coffee](https://www.linkedin.com/company/robotech-coffee)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pinterest:    [https://www.pinterest.com/suachuamayphacaphe/](https://www.pinterest.com/suachuamayphacaphe/)
+
+Tumblr:  [https://www.tumblr.com/blog/suamayphacafe](https://www.tumblr.com/blog/suamayphacafe)
+
+Soundcloud:        [https://soundcloud.com/robotech-coffee](https://soundcloud.com/robotech-coffee)
+
+Flickr:    [https://www.flickr.com/people/194867620@N02/](https://www.flickr.com/people/194867620@N02/)
+
+Goodreads:         [https://www.goodreads.com/suamayphacaphe](https://www.goodreads.com/suamayphacaphe)
+
+Gavatar:              [https://en.gravatar.com/suachuamayphacaphe](https://en.gravatar.com/suachuamayphacaphe)
+
+About:                [https://about.me/robotechcoffee](https://about.me/robotechcoffee)
